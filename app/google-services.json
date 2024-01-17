@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207466790211",
+    "project_id": "patient-f0b5c",
+    "storage_bucket": "patient-f0b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207466790211:android:a2f3d5b9ef58d7e501c3f6",
+        "android_client_info": {
+          "package_name": "com.patient.doctorsappointment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcuVwoIo83BiJePXdu-8cFsBktxS9X8jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
